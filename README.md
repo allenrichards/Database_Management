@@ -12,6 +12,6 @@ Each assignment is organized by folder name (Assignment 1 to Final Exam).
 ---
 
 🗂 **Total Assignments**: 12 
-📅 **Course Timeline**: Fall 2024  
+📅 **Course Timeline**: Fall 2023  
 🎓 **Instructor**: Alan Brandyberry, D.B.A.
 📝 **Note**: Some in-class assignments are not included due to submission restrictions or format limitations.
